@@ -33,7 +33,7 @@
  
  ## Screenshot
  
- ![](/images/doyouknow.png)
+ ![](https://www.awesomescreenshot.com/image/35501344?key=cee5dc39aef05883dc91fd77c1ef9c2e)
 
 
  ---
