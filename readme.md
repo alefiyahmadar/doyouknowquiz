@@ -33,7 +33,8 @@
  
  ## Screenshot
  
- ![image](/images/doyouknow.png)
+ ![image](https://user-images.githubusercontent.com/107259961/208825964-928f7ee6-71ca-48cd-8159-fbe2f50d06a1.png)
+
 
 
  ---
